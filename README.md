@@ -2,4 +2,4 @@
 
 ![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)
 
-![Preview](./preview.png?1)
+![Preview](./preview.png?2)
